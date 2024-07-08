@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: baln_prueba
+    schema: bm 
+    tables:
+      - name: prueba_git
+
+
